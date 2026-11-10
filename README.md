@@ -44,7 +44,7 @@ Two virtual networks connect them:
 
 The Wazuh VM has two network cards, one on each network. The Kali host sits on the lab network at 10.10.10.1.
 
-## 3. Installation of programs on Kali
+## 3. Installation of programs on Kali Linux
 
 Before installing anything, I confirmed that the machine could run virtual machines: the CPU reported VT-x support across all 16 logical cores, and `/dev/kvm` was present. The machine had about 15 GB of RAM and 133 GB of free disk space on the partition that holds the VM disk images.
 
