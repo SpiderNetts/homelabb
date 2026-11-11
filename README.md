@@ -7,7 +7,7 @@ A home Security Operations Center lab built on a Kali Linux host using KVM virtu
 
 1. [The idea](#1-the-idea)
 2. [Architecture](#2-architecture)
-3. [Installation of programs on Kali](#3-installation-of-programs-on-kali)
+3. [Installation of programs on Kali Linux](#3-installation-of-programs-on-kali)
 4. [Installation and configuration of Ubuntu Server](#4-installation-and-configuration-of-ubuntu-server)
 5. [Configuration of Wazuh](#5-configuration-of-wazuh)
 6. [First log in](#6-first-log-in)
